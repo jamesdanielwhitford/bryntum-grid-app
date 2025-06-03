@@ -114,7 +114,7 @@ npm install
 Create a `.env` file in the project root:
 
 ```bash
-cp .env.example .env
+touch .env
 ```
 
 Edit the `.env` file and add your Supabase credentials:
