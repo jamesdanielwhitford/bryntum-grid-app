@@ -12,6 +12,7 @@
   "dependencies": {
     "@bryntum/grid": "npm:@bryntum/grid-trial@6.2.3",
     "@bryntum/grid-react": "6.2.3",
+    "@supabase/supabase-js": "^2.49.9",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "sass": "1.89.1"
